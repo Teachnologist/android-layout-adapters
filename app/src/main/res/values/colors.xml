@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="testcolor1">#D52828</color>
+    <color name="testcolor2">#2196F3</color>
+    <color name="testcolor3">#8BC34A</color>
+    <color name="testcolor4">#009688</color>
+    <color name="testcolor5">#673AB7</color>
+</resources>

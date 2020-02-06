@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frag2"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FF5722"
+    android:name="com.design.layout.components.MenuFragment"
+    android:focusable="true"
+    android:clickable="true"
+    tools:context=".components.MenuActivity"
+    >
+    <GridView
+        android:background="#00BCD4"
+        android:id="@+id/menu_test"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="true"
+        android:clickable="true"
+        />
+</fragment>
+
